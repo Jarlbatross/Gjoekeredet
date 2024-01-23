@@ -37,3 +37,20 @@ What did you learn while building this project? What challenges did you face and
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+Tilbakemelding stian - fremdriftsplan
+
+Så en nettside laget med Vue, hvor vi henter info fra dette APIet:
+https://5e-bits.github.io/docs/api (tips: bruk Axios)
+Lagre info om spillet og spillerne i en SQL DB med SSMS
+
+Lag en basic nettside med riktig layout, med tabs/faner w/e
+Knytte til APIet via Axios, for å lage en fane med Glossary og Bestiary
+Lag en side for regler, hvor du slår sammen APIet med 5e reglene + houserules.
+Karakterene til spillerne, lagres i databasen
+NPC's lagres i databasen
+Session log
+Tidslinje
+Map
+På landing pagen vises 4-8
+bare fantasien som setter stopp.
